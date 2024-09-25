@@ -9,6 +9,7 @@ A brainrot fortune used for linux terminals.
 2. You should see the brainrot-fortune file in your downloads folder.
 
 3. Type in your terminal these commands:
+
 ```chmod +x brot-fortune.sh```
 (To make file executable)
 
