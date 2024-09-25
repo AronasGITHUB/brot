@@ -16,3 +16,5 @@ A brainrot fortune used for linux terminals.
 ```./brot-fortune.sh```
 (to execute file)
 
+
+coming soon..
